@@ -1,3 +1,6 @@
+
+<p align="center"><img src="https://raw.githubusercontent.com/aminbena010-ai/CGame/main/assets/logo.svg" width="160" alt="CGame++ Logo"></p>
+
 # CGame++
 
 CGame++ es un motor/framework de videojuegos 2D escrito en C++20 y renderizado con **Vulkan**. Su API está inspirada en la simplicidad de **pygame**: crear una ventana, cargar sprites, dibujar texto, reproducir sonidos y detectar colisiones con muy pocas líneas de código, pero con el rendimiento de la GPU.
