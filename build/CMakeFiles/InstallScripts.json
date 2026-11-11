@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/amine/Documentos/GamePy/CGame/build/cmake_install.cmake",
-		"/home/amine/Documentos/GamePy/CGame/build/_deps/glfw-build/cmake_install.cmake",
-		"/home/amine/Documentos/GamePy/CGame/build/_deps/glfw-build/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

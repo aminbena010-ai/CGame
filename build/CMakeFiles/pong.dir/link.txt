@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/pong.dir/link.d CMakeFiles/pong.dir/examples/pong.cpp.o -o pong  libCGame.a _deps/glfw-build/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libvulkan.so

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libCGame.a CMakeFiles/CGame.dir/src/Core/Window.cpp.o CMakeFiles/CGame.dir/src/Core/Event.cpp.o CMakeFiles/CGame.dir/src/Core/Clock.cpp.o CMakeFiles/CGame.dir/src/Graphics/Renderer.cpp.o CMakeFiles/CGame.dir/src/Graphics/Texture.cpp.o CMakeFiles/CGame.dir/src/Graphics/Font.cpp.o CMakeFiles/CGame.dir/src/Graphics/Draw.cpp.o CMakeFiles/CGame.dir/src/Audio/Sound.cpp.o
-/usr/bin/ranlib libCGame.a
