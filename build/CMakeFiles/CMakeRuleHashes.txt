@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+8d96a8f804b671f1075d861bd047dcc1 CMakeFiles/shaders
+dacfb243eaf4a07b0c4dd472f2514ef1 _deps/glfw-build/CMakeFiles/uninstall
+c8744f72757db3e6a4c147c8d0b5d6f7 _deps/glfw-build/src/CMakeFiles/update_mappings
+e6924c0068b3ee91bd31b4490311bcb7 shaders/sprite.vert.spv
